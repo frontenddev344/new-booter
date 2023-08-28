@@ -4543,6 +4543,23 @@ section#blog {
   padding: 100px 0;
 }
 
+section#featured-products .swiper-slide {
+  border: 1px solid #ccc;
+  padding: 10px;
+
+
+}
+
+section#digitale-products .product-item {
+   border: 1px solid #ccc;
+  padding: 10px;
+}
+
+section#Food-products .product-item {
+   border: 1px solid #ccc;
+  padding: 10px;
+}
+
 /* Blog css */
 /*  */
 .club {
@@ -4606,12 +4623,14 @@ section#blog {
   max-width: 500px;
   position: relative;
 }
+
 .ucct {
   position: absolute;
   right: -24%;
   bottom: -99px;
   width: 100%;
 }
+
 /*  */
 
 
